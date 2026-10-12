@@ -1,0 +1,9 @@
+{
+  "name":"personal-portfolio",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Responsive portfolio with Express contact API",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^4.21.2"}
+}
